@@ -6,6 +6,6 @@ To better understand and for doing more practices about API I followed tutorial 
 
 ---
 
-[Click to see](https://ayerdelen.github.io/FoodRecipeApp)
+[Click to see](https://ayerdelen.github.io/FoodRecipeApp/)
 
 ![.](ss.png)
